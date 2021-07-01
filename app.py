@@ -34,3 +34,4 @@ if uploadedImage is not None:
       st.header("Mask detected!")  
       st.header(f"Protection score:{y_out} ")
       st.header(f"Good Job!")
+      
