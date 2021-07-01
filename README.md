@@ -1,2 +1,2 @@
 # FaceMask-Detection
-Link to the web-app to check with a custom input 
+This is the link to the web-app designed to detect if a person is wearing a mask or not
