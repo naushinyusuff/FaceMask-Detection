@@ -17,7 +17,7 @@ clf= load_model("model.h5")
 uploadedImage = st.file_uploader("Select an Image",type="jpg")
 if uploadedImage is not None: 
   img=Image.open(uploadedImage)  
-  st.image(img,caption="This is the uploaded image")
+  #st.image(img,caption="This is the uploaded image")
 
   if st.button("Predict"):
     
